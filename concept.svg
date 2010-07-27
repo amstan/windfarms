@@ -141,5 +141,6 @@
        inkscape:randomized="0"
        d="m 1452,364.625 -45.0285,-19.23225 -40.9538,26.62415 39.1699,-29.3797 -2.5803,-48.7791 5.8586,48.61195 L 1452,364.625 z"
        transform="translate(64.81066,3.573223)" />
+       <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="360" begin="0s" dur="3s" repeatCount="indefinite"/>
   </g>
 </svg>
